@@ -1,0 +1,11 @@
+{
+  "dataset_name": "Dataset_50x500_ExtraBias",
+  "num_job": 50,
+  "num_curricula": 500,
+  "percentage_synonyms": 0.5,
+  "n_consistent": 0.4,
+  "description": "Dataset version 1",
+  "save_debug": true,
+  "dataset_version": 1,
+  "Database generated": "24/02/2025 11:59:16"
+}
