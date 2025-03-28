@@ -1,0 +1,11 @@
+{
+  "dataset_name": "UnethicalDataset_50x500",
+  "num_job": 50,
+  "num_curricula": 500,
+  "percentage_synonyms": 0.5,
+  "n_consistent": 0.4,
+  "description": "Dataset version 1",
+  "save_debug": true,
+  "dataset_version": 1,
+  "Database generated": "23/02/2025 17:46:02"
+}
